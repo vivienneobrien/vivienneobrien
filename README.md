@@ -1,4 +1,4 @@
-### Hello I'm Viv 👋 
+### Hello 👋 
 
 🦄  Front-End Engineer @ Tech Unicorn Matillion Ltd.
 
