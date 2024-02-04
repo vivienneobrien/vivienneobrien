@@ -1,6 +1,6 @@
 ### Hello 👋 
 
-🦄  Front-End Engineer @ Tech Unicorn Matillion Ltd.
+🦄  Front-End Engineer 
 
 🎤  Makes noise about #a11y #inclusivedesign 
 
