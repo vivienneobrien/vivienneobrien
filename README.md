@@ -1,5 +1,5 @@
 <h1 align="center" >
-  <img src="https://readme-typing-svg.herokuapp.com?font=Jost&weight=600&size=30&duration=400&pause=1000&color=F7682E&center=true&random=false&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+Vivienne+O'Brien;But+you+can+call+me+Viv;I'm+a+Developer;I'm+a+Designer;I'm+a+Creative;I'm+a+Teacher;I'm+a+Student;I'm+an+Adventurer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jost&weight=600&size=30&duration=400&pause=1000&color=F7682E&center=true&random=false&width=435&lines=Hi+there!+%F0%9F%91%8B;My+name+is+Vivienne+O'Brien;But+you+can+call+me+Viv+:);I'm+a+Builder;I'm+a+Developer;I'm+a+Designer;I'm+a+Teacher;I'm+a+Student;I'm+a+Talker;I'm+a+Kiwi+Eater;I'm+a+Water+Drinking+Enthusiast;I'm+a+Creative;" alt="Typing SVG" />
 </h1>
 
 ## 🚀 About me 
