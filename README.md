@@ -34,9 +34,9 @@
 ![Datadog](https://img.shields.io/badge/datadog-632BA6?logo=datadog&labelColor=black&color=632BA6)
 ![SonarCloud](https://img.shields.io/badge/sonarcloud-FF6600?logo=sonarcloud&labelColor=black)
 
-
+ <h2>🐍 My Contributions </h2>
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+ 
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
