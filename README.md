@@ -6,7 +6,7 @@
 
 A Software Engineer from Ireland based in Canada 🇨🇦 who enjoys front-end development and being involved in product strategy  
 
-![446299725009201](https://github.com/vivienneobrien/vivienneobrien/assets/52012478/f075d695-dce7-4a64-b1d7-33b9eabea262)
+![output-onlinegiftools](https://github.com/vivienneobrien/vivienneobrien/assets/52012478/fc7894f7-279b-466d-847b-95f9485461ed)
 
 
 📚 Learning how to sell my product "The Union Survives".
