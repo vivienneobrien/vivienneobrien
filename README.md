@@ -6,7 +6,7 @@
 
 ![Animation - 1708608390142](https://github.com/vivienneobrien/vivienneobrien/assets/52012478/7b9e28d4-11b3-4d8a-b527-0f2092bc7668)
 
-🦄  A driven front-end engineer from Ireland based in Canada 
+🇨🇦  A Front-End Engineer from Ireland based in Canada 
 
 🧠  Currently learning how to create content via youtube videos (stay tune)
 
