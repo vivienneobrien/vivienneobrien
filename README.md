@@ -4,15 +4,13 @@
 
 ## 🚀 About me 
 
+A Software Engineer from Ireland based in Canada who enjoys being involved in product strategy 🇨🇦 
+
 ![Animation - 1708608390142](https://github.com/vivienneobrien/vivienneobrien/assets/52012478/7b9e28d4-11b3-4d8a-b527-0f2092bc7668)
 
-🇨🇦  A Front-End Engineer from Ireland based in Canada 
+📚 Learning how to sell my product "The Union Survives".
 
-🧠  Currently learning how to create content via youtube videos (stay tune)
-
-🎓  Computer Science, Education & Design Graduate. 
-
-💛  A front-end specialist who cares about maintaining an authentically positive working culture where individuals encourage each other’s unique interests, abilities, learning & working styles and help them shine. A drive to build safer, more secure, accessible, inclusive and human centred user experiences for everyone. Simple-stupid, structured and efficient software development processes (including CI) are extremely important to me and work best with those who share similar values. Inclusive Design & Accessibility Advocate. Agile Champion- Accredited Professional Scrum Master (PSM 1 with scrum.org)
+🧠 Currently learning how to create content via Youtube videos (stay tune).
 
 👋  Feel free to reach out: vivobrien@proton.me
 
