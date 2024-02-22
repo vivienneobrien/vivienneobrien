@@ -4,7 +4,7 @@
 
 ## 🚀 About me 
 
-A Software Engineer from Ireland based in Canada who enjoys being involved in product strategy 🇨🇦 
+A Software Engineer from Ireland based in Canada who enjoys front-end development and being involved in product strategy 🇨🇦 
 
 ![Animation - 1708608390142](https://github.com/vivienneobrien/vivienneobrien/assets/52012478/7b9e28d4-11b3-4d8a-b527-0f2092bc7668)
 
