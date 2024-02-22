@@ -11,9 +11,9 @@ A Software Engineer from Ireland based in Canada 🇨🇦 who enjoys front-end d
 
 📚 Learning how to sell my product "The Union Survives".
 
-🧠 Currently learning how to create content via Youtube videos (stay tune).
+🧠 Learning how to create content via Youtube videos (stay tuned).
 
-👋  Feel free to reach out: vivobrien@proton.me
+📮  Feel free to reach out: vivobrien@proton.me
 
 ## 💻 Tech Stack:
 
