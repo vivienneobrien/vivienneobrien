@@ -35,7 +35,13 @@ A Software Engineer from Ireland based in Canada 🇨🇦 who enjoys front-end d
 
  <h2>📊 My Stats </h2>
  
-![Vivs's GitHub stats](https://github-readme-stats.vercel.app/api?username=vivienneobrien&show_icons=true&theme=cobalt)
+
+<a href="https://github.com/vivienneobrien/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vivienneobrien&show_icons=true&theme=cobalt" />
+</a>
+<!-- <a href="https://github.com/vivienneobrien/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vivienneobrien&layout=compact&langs_count=8&card_width=320" />
+</a> -->
 
  <h2>🐍 My Contributions </h2>
 <div align="center">
