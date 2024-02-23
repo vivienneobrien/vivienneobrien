@@ -15,6 +15,8 @@ A **Software Engineer** from Ireland based in <ins>Canada</ins> 🇨🇦 who enj
 
 📮  Feel free to reach out: vivobrien@proton.me
 
+👂 "If you don't work to build your own dream, someone will hire you to build theirs"
+
 ## 💻 Tech Stack:
 
 ### Languages, Libraries & Frameworks
