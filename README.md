@@ -9,9 +9,9 @@ A **Software Engineer** from Ireland based in <ins>Canada</ins> 🇨🇦 who enj
 ![output-onlinegiftools](https://github.com/vivienneobrien/vivienneobrien/assets/52012478/fc7894f7-279b-466d-847b-95f9485461ed)
 
 
-📚 Learning how to self publish my book "The Union Survives".
+📚 Learning how to self-publish my book "The Union Survives".
 
-🧠 Learning how to create content via Youtube videos (stay tuned).
+🧠 Learning how to create content via YouTube videos (stay tuned).
 
 📮  Feel free to reach out: vivobrien@proton.me
 
