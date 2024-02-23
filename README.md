@@ -4,7 +4,7 @@
 
 ## 🚀 About me 
 
-A Software Engineer from Ireland based in Canada 🇨🇦 who enjoys front-end development and being involved in product strategy  
+A **Software Engineer** from Ireland based in <ins>Canada</ins> 🇨🇦 who enjoys front-end development and being involved in product strategy  
 
 ![output-onlinegiftools](https://github.com/vivienneobrien/vivienneobrien/assets/52012478/fc7894f7-279b-466d-847b-95f9485461ed)
 
@@ -33,7 +33,7 @@ A Software Engineer from Ireland based in Canada 🇨🇦 who enjoys front-end d
 ![Datadog](https://img.shields.io/badge/datadog-632BA6?logo=datadog&labelColor=black&color=632BA6)
 ![SonarCloud](https://img.shields.io/badge/sonarcloud-FF6600?logo=sonarcloud&labelColor=black)
 
- <h2>📊 My Stats </h2>
+ <h2>📊 My Stats: </h2>
  
 
 <a href="https://github.com/vivienneobrien/github-readme-stats">
@@ -43,7 +43,7 @@ A Software Engineer from Ireland based in Canada 🇨🇦 who enjoys front-end d
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vivienneobrien&layout=compact&langs_count=8&card_width=320" />
 </a> -->
 
- <h2>🐍 My Contributions </h2>
+ <h2>🐍 My Contributions: </h2>
 <div align="center">
  
   <br>
