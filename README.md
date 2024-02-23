@@ -33,6 +33,10 @@ A Software Engineer from Ireland based in Canada 🇨🇦 who enjoys front-end d
 ![Datadog](https://img.shields.io/badge/datadog-632BA6?logo=datadog&labelColor=black&color=632BA6)
 ![SonarCloud](https://img.shields.io/badge/sonarcloud-FF6600?logo=sonarcloud&labelColor=black)
 
+ <h2>📊 My Stats </h2>
+ 
+![Vivs's GitHub stats](https://github-readme-stats.vercel.app/api?username=vivienneobrien&show_icons=true&theme=cobalt)
+
  <h2>🐍 My Contributions </h2>
 <div align="center">
  
