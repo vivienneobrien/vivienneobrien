@@ -4,7 +4,7 @@
 
 ## 🚀 About me 
 
-A **Software Engineer** from Ireland based in <ins>Canada</ins> 🇨🇦 who enjoys front-end development and being involved in product management 
+A product-focused **Software Engineer** from Ireland based in <ins>Canada</ins> 🇨🇦 who enjoys front-end development. 
 
 ![output-onlinegiftools](https://github.com/vivienneobrien/vivienneobrien/assets/52012478/fc7894f7-279b-466d-847b-95f9485461ed)
 
