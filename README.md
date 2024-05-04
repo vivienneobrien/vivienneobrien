@@ -4,7 +4,7 @@
 
 ## 🚀 About me 
 
-A product-focused **Software Engineer** from Ireland based in <ins>Canada</ins> 🇨🇦 who enjoys front-end development and learning about system design
+A product-focused **Software Engineer** from Ireland based in <ins>Canada</ins> 🇨🇦 who enjoys front-end development and advocating for accessibility #a11y #wcag #inclusivedesign 
 
 ![output-onlinegiftools](https://github.com/vivienneobrien/vivienneobrien/assets/52012478/fc7894f7-279b-466d-847b-95f9485461ed)
 
