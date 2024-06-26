@@ -4,7 +4,7 @@
 
 ## 🚀 About me 
 
-A product-focused **Software Engineer** from Ireland based in <ins>Vancouver, Canada</ins> 🇨🇦 who enjoys building 3D immersive websites using Three.js and tinkering with ai artistry. Follow my art [here]([https://link-url-here.org](https://www.instagram.com/enchanteddreamlands/))
+A product-focused **Software Engineer** from Ireland based in <ins>Vancouver, Canada</ins> 🇨🇦 who enjoys building 3D immersive websites using Three.js and tinkering with ai artistry. Follow my art [here](https://www.instagram.com/enchanteddreamlands/) ✨
 
 
 ![output-onlinegiftools](https://github.com/vivienneobrien/vivienneobrien/assets/52012478/fc7894f7-279b-466d-847b-95f9485461ed)
