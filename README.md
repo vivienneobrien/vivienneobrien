@@ -4,14 +4,10 @@
 
 ## 🚀 About me 
 
-A product-focused **Software Engineer** from Ireland based in <ins>Vancouver, Canada</ins> 🇨🇦 who enjoys building 3D immersive websites using Three.js and tinkering with ai artistry. Follow my art [here](https://www.instagram.com/enchanteddreamlands/) ✨
-
+A product-focused **Software Engineer** from Ireland based in <ins>Vancouver, Canada</ins> 🇨🇦 I’m passionate about creating beautiful user experiences and helping clients turn complex data into something clear and actionable. As a hobby I love building 3D immersive sites using Three.js and tinkering with ai artistry. Follow my art [here](https://www.instagram.com/enchanteddreamlands/) ✨
 
 ![output-onlinegiftools](https://github.com/vivienneobrien/vivienneobrien/assets/52012478/fc7894f7-279b-466d-847b-95f9485461ed)
 
-🧠 Learning how to create content via YouTube videos (stay tuned)
-
-📚 In the backlog: Learn how to self-publish my book "The Union Survives"
 
 📮  Feel free to reach out: vivobrien@proton.me
 
